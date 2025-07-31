@@ -32,7 +32,7 @@ http://163.227.238.44/ColorsBanglaCinema/tracks-v1/index.fmp4.m3u8
 http://163.227.238.44/SunBangla/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png",Sony aath
-http://163.227.238.44/SonyAath/tracks-v1/index.fmp4.m3u8
+http://163.227.238.44/SonyAath/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg",Mon tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
